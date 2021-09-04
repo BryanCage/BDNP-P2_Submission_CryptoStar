@@ -12,9 +12,11 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
 <pre>
 <code>$git clone [git repo]</code>
 </pre>
-<li>Create two text files .mnemonic and .infurakey, respectively. These are used for connection to Rinkeby Test Network (see truffle-config.js)</li>
+<li>Create two text files .mnemonic and .infurakey. These are used for connection to Rinkeby Test Network (see truffle-config.js)</li>
   
 <pre><code>.mnemonic
 .infuraKey
 </code></pre>
+  <li>Open the truffle developement environment</li>
+  <pre><code>truffle develop</code></pre>
 </ol>
