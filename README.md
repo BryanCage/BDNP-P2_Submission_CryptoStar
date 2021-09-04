@@ -7,7 +7,9 @@ ERC721 Symbol: STAR </br>
 ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe306ebec7 </br>
 
 <h3>Installation and Getting Started</h3>
-1. Clone Repository </br>
-```
-$git clone <git repo>
-```
+<ol><li>Clone Repository</li></ol>
+<pre>
+<code>$git clone <git repo></code>
+</pre>
+2. Create two text files for adding MetaMask Mnemonic and Infura Key, respectively. Used for connection    to Rinkeby Test Network (see truffle-config.js) for use. </li>
+  
