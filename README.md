@@ -7,5 +7,5 @@ ERC721 Symbol: STAR </br>
 ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe306ebec7 </br>
 
 <h3>Installation and Getting Started</h3>
-1. Clone Repository
-<code>$git clone <git repo></code>
+1. Clone Repository </br>
+```$git clone <git repo>```
