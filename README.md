@@ -8,4 +8,6 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
 
 <h3>Installation and Getting Started</h3>
 1. Clone Repository </br>
-```$git clone <git repo>```
+```
+$git clone <git repo>
+```
