@@ -37,6 +37,6 @@ migrate --reset --network Rinkeby</code></pre>
  <li>Run the front-end server</li>
  <pre><code>npm run dev</code></pre>
  <li>Select the Rinkeby Test Network from the drop down list of networks at the top of the MetaMask Extension.</li>
- <li>Open http://localhost:8080 in a browser and connect an account with a sufficient ETH balance using the MetaMask Extension.</li>
+ <li>Open http://localhost:8080 in a browser and select an account with a sufficient ETH balance from the MetaMask Extension. You may have to manually connect account if it isn't connected automatically.</li>
  <li>Go to the CryptoStar homepage and create a new star by typing a Star Name and Star ID and clicking the Create Star button.</li>
 </ol>
