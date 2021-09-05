@@ -4,7 +4,7 @@ Project 2: Decentralized App for Notarizing Star NFTs
 Developed with truffle@5.0.2 and openzeppelin-solidity@2.3 </br>
 ERC721 Token Name: CryptoStar </br>
 ERC721 Symbol: STAR </br>
-ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe306ebec7 </br>
+ERC721 Token Address (Rinkeby Test Network): 0x132C4337c55b8737C5D57d7967EA0eD23947cc13 </br>
 
 <h3>Installation and Getting Started</h3>
 <ol><li>Clone Repository</li>
