@@ -10,7 +10,7 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
 <ol><li>Clone Repository</li>
   
 <pre>
-<code>$git clone [git repo]- CryptoStar</code>
+<code>$git clone [git repo] CryptoStar</code>
 </pre>
   <li>Navigate to the CryptoStar directory folder</li>
   <pre><code>cd CryptoStar</code></pre>
