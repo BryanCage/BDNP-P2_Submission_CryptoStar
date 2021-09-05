@@ -10,18 +10,24 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
 <ol><li>Clone Repository</li>
   
 <pre>
-<code>$git clone [git repo]</code>
+<code>$git clone [git repo]- CryptoStar</code>
 </pre>
+  <li>Navigate to the CryptoStar directory folder</li>
+  <pre><code>cd CryptoStar</code></pre>
+  <li>Install the Project Dependencies</li>
+  <pre><code>npm install</code></pre>
   <li>Create two text files <strong>.mnemonic</strong> and <strong>.infurakey</strong>. These are used for connection to Rinkeby Test Network (see truffle-config.js)</li>
   
 <pre><code>.mnemonic
 .infuraKey
 </code></pre>
+  <li>Open a browser and navigate to <strong>infura.io/dashboard/ethereum</strong>. Select a project and copy the Project ID. Open the file <strong>.infurakey</strong> and paste your Project ID on the top line. Save and close the file.</li>
+<li>Open the MetaMask extension from the browser. Retrieve and copy your 12 word mnemonic seed phrase. Open the file <strong>.mnemonic</strong> and paste your 12 word mnemonic seed phrase on the top line. Save and close the file.</li>
   <li>Open the truffle developement environment</li>
   <pre><code>truffle develop</code></pre>
-  <li>Compile the contracts and migrate using the truffle develop terminal</li>
+  <li>Compile the contracts and migrate the contract to the Rinkeby Test Network using the truffle develop terminal</li>
   <pre><code>compile
-migrate --reset</code></pre>
+migrate --reset --network Rinkeby</code></pre>
 <li>Open another terminal and navigate into the /app directory</li>
 <pre><code>cd app</code></pre>
   <li>Install dependencies for running app.js</li>
