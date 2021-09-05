@@ -19,4 +19,17 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
 </code></pre>
   <li>Open the truffle developement environment</li>
   <pre><code>truffle develop</code></pre>
+  <li>Compile the contracts and migrate from the truffle develop terminal</li>
+  <pre><code>compile
+migrate --reset</code></pre>
+<li>Open another terminal and navigate into the /app directory</li>
+<pre><code>cd app</code></pre>
+  <li>Install dependencies for running app.js</li>
+  <pre><code>npm install</code></pre>
+ <li>Run the front-end server</li>
+ <pre><code>npm run dev</code></pre>
+<li>Paste your MetaMask mnemonic seed words into .mnemonic text file. Paste your Infura Project ID into your .infurakey text file. Save and close both.</li>
+  <li>Open http://localhost:8080 in a browser and connect an account using MetaMask extension.</li>
+  <li>Go to the CryptoStar homepage and create a new star by typing a Star Name and Star ID and clicking the Create Star button.</li>
+  
 </ol>
