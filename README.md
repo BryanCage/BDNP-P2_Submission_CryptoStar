@@ -26,7 +26,7 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
   <li>Open the truffle developement environment</li>
   <pre><code>truffle develop</code></pre>
   <li>Compile the contracts and migrate the contracts to the Rinkeby Test Network.</br> 
-truffle(develop)> 
+<strong>truffle(develop)></strong> 
 </li>
   <pre><code>compile
 migrate --reset --network Rinkeby</code></pre>
