@@ -25,7 +25,7 @@ ERC721 Token Address (Rinkeby Test Network): 0x2c80560cabe663ce3a8e9c6288cbcdfe3
 <li>Open the MetaMask extension from the browser. Retrieve and copy your 12 word mnemonic seed phrase. Open the file <strong>.mnemonic</strong> and paste your 12 word mnemonic seed phrase on the top line. Save and close the file.</li>
   <li>Open the truffle developement environment</li>
   <pre><code>truffle develop</code></pre>
-  <li>Compile the contracts and migrate the contract to the Rinkeby Test Network using the truffle develop terminal</li>
+  <li>Compile the contracts and migrate the contracts to the Rinkeby Test Network using the truffle develop terminal</li>
   <pre><code>compile
 migrate --reset --network Rinkeby</code></pre>
 <li>Open another terminal and navigate into the /app directory</li>
