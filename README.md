@@ -34,9 +34,6 @@ migrate --reset --network Rinkeby</code></pre>
   <pre><code>npm install</code></pre>
  <li>Run the front-end server</li>
  <pre><code>npm run dev</code></pre>
-<li>Open the .mnemonic text file. Copy and paste your MetaMask mnemonic seed phrase into the file. Save and close.</li>
-<li>Open the .infurakey text file. Copy and paste your Infura Project ID into the file. Save and close.</li>
-  <li>Open http://localhost:8080 in a browser and connect an account using MetaMask extension.</li>
-  <li>Go to the CryptoStar homepage and create a new star by typing a Star Name and Star ID and clicking the Create Star button.</li>
-  
+ <li>Open http://localhost:8080 in a browser and connect an account using MetaMask extension.</li>
+ <li>Go to the CryptoStar homepage and create a new star by typing a Star Name and Star ID and clicking the Create Star button.</li>
 </ol>
