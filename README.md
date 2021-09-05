@@ -40,6 +40,6 @@ migrate --reset --network Rinkeby</code></pre>
  <li>Open http://localhost:8080 in a browser and select an account with a sufficient ETH balance from the MetaMask Extension. You may have to manually the connect account if it isn't connected automatically.</li>
  <li>On the <strong>localhost:8080</strong> webpage create a new star by typing a Star Name and Star ID and clicking the Create Star button.</li>
  <li>Comfirm the transaction when prompted by the MetaMask Extension pop-up window.</li>
- <li>You will receive a transaction confirmation pop-up window when the transaction was successful.</li>
+ <li>You will receive a Confirmed transaction pop-up window when the transaction was successful and the new star was minted.</li>
  <li>After the transaction confirmation has been received look up your star by typing the Star ID in the <strong>Look Up Star</strong> Star ID input field and clicking the Look Up a Star Button</li>
 </ol>
